@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\sereg\Desktop\musor\Игра в слова\IgraVslova1.6\Project1\Source.cpp(73,40): warning C4244: аргумент: преобразование "__int64" в "DWORD", возможна потеря данных
+C:\Users\sereg\Desktop\musor\Игра в слова\IgraVslova1.6\Project1\Source.cpp(203,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\sereg\Desktop\musor\Игра в слова\IgraVslova1.6\Project1\Source.cpp(269,20): warning C4244: =: преобразование "time_t" в "int", возможна потеря данных
+C:\Users\sereg\Desktop\musor\Игра в слова\IgraVslova1.6\Project1\Source.cpp(283,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\sereg\Desktop\musor\Игра в слова\IgraVslova1.6\Project1\Source.cpp(120): warning C4715: MaxRecordInput: значение возвращается не при всех путях выполнения
+C:\Users\sereg\Desktop\musor\Игра в слова\IgraVslova1.6\Project1\Source.cpp(64): warning C4715: Hardness_choose: значение возвращается не при всех путях выполнения
+  Project1.vcxproj -> C:\Users\sereg\Desktop\musor\Игра в слова\IgraVslova1.6\x64\Debug\Project1.exe
